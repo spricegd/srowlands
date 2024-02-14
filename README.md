@@ -3,6 +3,23 @@
 - 🧰 I love making tools for Unity3D to improve productivity
 - 8️⃣ I've been in game development since 2014 now and have an array of exp in testing, devops and unity development
 
+## :speaking_head: Get in touch with me
+
+
+[![My Chocolatey Profile](https://img.shields.io/badge/Chocolatey-srowlands-924716.svg?style=for-the-badge&labelColor=80B5E3&logoColor=white&logo=Chocolatey)]()
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-srowlands-0e76a8.svg?style=for-the-badge&color=1DA1F2&logo=linkedin)](https://www.linkedin.com/in/sam-rowlands-95614429/)
+
+[![Twitter](https://img.shields.io/twitter/follow/srowlands.svg?style=for-the-badge&color=1DA1F2&logo=x)](https://twitter.com/samrowlands_dev)
+
+[![My Amazon Wishlist](https://img.shields.io/badge/Amazon-Wishlist-FF9900.svg?style=for-the-badge&logoColor=white&logo=Amazon)](https://www.amazon.co.uk/hz/wishlist/ls/2KX950XFQJB10?ref_=wl_share)
+
+[![Buy me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-mkevenaar-FFDD00.svg?style=for-the-badge&amp;logo=buy-me-a-coffee)](https://www.buymeacoffee.com/srowlands)
+
+
+## :chart_with_upwards_trend: My Stats
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spricegd&theme=darcula)](https://github.com/spricegd)
+
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=spricegd&show_icons=true&theme=darcula)](https://github.com/spricegd/github-readme-stats)
 
 <!---
