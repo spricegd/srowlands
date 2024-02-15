@@ -1,8 +1,8 @@
 ## Hello World
-- 👋 Hi, I’m @spricegd
+- 👋 Hi, I’m Sam
 - 👀 I’m interested in game development, devops and automation
 - 🧰 I love making tools for Unity3D to improve productivity
-- 8️⃣ I've been in game development since 2014 now and have an array of exp in testing, devops and unity development
+- 8️⃣ I've been in game development since 2014 now and have an array of exp in testing, devops, unity development and XR
 
 ## :speaking_head: Get in touch with me
 
