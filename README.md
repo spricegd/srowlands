@@ -22,11 +22,11 @@
 [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discordapp.com/users/229295942619103243)
 
 ## :chart_with_upwards_trend: My Stats
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spricegd&theme=darcula)](https://github.com/spricegd)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srowlandsdev&theme=darcula)](https://github.com/srowlandsdev)
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=spricegd&show_icons=true&theme=darcula)](https://github.com/spricegd/github-readme-stats)
+[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=srowlandsdev&show_icons=true&theme=darcula)](https://github.com/srowlandsdev/github-readme-stats)
 
 <!---
-spricegd/spricegd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+srowlandsdev/srowlands is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
